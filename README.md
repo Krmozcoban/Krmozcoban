@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cars
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+- 📫 How to reach me ... well you cant
 
 <!---
 Krmozcoban/Krmozcoban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
